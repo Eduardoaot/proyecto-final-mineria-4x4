@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Credenciales y variables de entorno
+*.env
+*.token
+tokens/
+
+# macOS
+.DS_Store
+
+# Paquetes instalados
+*.egg-info/
+dist/
+build/
